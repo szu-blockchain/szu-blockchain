@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 深圳大学区块链技术研究中心
 
 You can use the [editor on GitHub](https://github.com/szu-blockchain/szu-blockchain.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
