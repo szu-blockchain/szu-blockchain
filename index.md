@@ -1,4 +1,4 @@
-## ÉîÛÚ´óÑ§Çø¿éÁ´¼¼ÊõÑĞ¾¿ÖĞĞÄ
+## æ·±åœ³å¤§å­¦åŒºå—é“¾æŠ€æœ¯ç ”ç©¶ä¸­å¿ƒ
 
 You can use the [editor on GitHub](https://github.com/szu-blockchain/szu-blockchain.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and weâ€™ll help you sort it out.
+
