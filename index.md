@@ -1,32 +1,11 @@
-## æ·±åœ³å¤§å­¦åŒºå—é“¾æŠ€æœ¯ç ”ç©¶ä¸­å¿ƒ
+# ÉîÛÚ´óÑ§Çø¿éÁ´¼¼ÊõÑĞ¾¿ÖĞĞÄ
+ÉîÛÚ´óÑ§Çø¿éÁ´¼¼ÊõÑĞ¾¿ÖĞĞÄ³ÉÁ¢ÓÚ2018ÄêÄê4ÔÂ14ÈÕ£¬ÒÀÍĞÓÚ´óÊı¾İÏµÍ³¼ÆËã¼¼Êõ¹ú¼Ò¹¤³ÌÊµÑéÊÒ¡£ÖĞĞÄÖ÷Òª¿ªÕ¹Çø¿éÁ´µÄ»ù´¡ÀíÂÛÑĞ¾¿¡¢¹Ø¼ü¼¼Êõ¿ª·¢ÒÔ¼°Ïà¹ØĞĞÒµÓ¦ÓÃ£¬Í¬Ê±»ı¼«¿ªÕ¹Çø¿éÁ´½»²æÑ§¿ÆÈË²ÅµÄÅàÑøÓëÅàÑµµÄÑĞ¾¿»ú¹¹¡£
 
-You can use the [editor on GitHub](https://github.com/szu-blockchain/szu-blockchain.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ÑĞ¾¿ÏîÄ¿
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Ğí¿É¹«Á´
+### Êı×Ö´´ÒâÆ½Ì¨
 
 ### Jekyll Themes
 
